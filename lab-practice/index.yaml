@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  lab-practice:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-19T15:52:07.774923694Z"
+    description: A Helm chart for Kubernetes
+    digest: d0eccbb8e5050016e2a08d7bb2b67e8e76440c4efce7c8f2a7898cd62851140b
+    name: lab-practice
+    type: application
+    urls:
+    - lab-practice-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-19T15:52:07.773473061Z"
